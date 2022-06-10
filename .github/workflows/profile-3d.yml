@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: adityagohad
           SETTING_JSON : rainbow.json
       - name: Commit & Push
